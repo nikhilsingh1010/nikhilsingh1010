@@ -113,9 +113,11 @@ const nikhil = {
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsingh1010&show_icons=true&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsingh1010&theme=radical&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsingh1010&layout=compact&theme=radical&hide_border=true" width="48%">
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilsingh1010&show_icons=true&locale=en&layout=compact" alt="nikhilsingh1010" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilsingh1010&show_icons=true&locale=en" alt="nikhilsingh1010" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsingh1010&" alt="nikhilsingh1010" /></p>
 </div>
 
 ---
