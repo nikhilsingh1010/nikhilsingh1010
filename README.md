@@ -100,7 +100,7 @@ const nikhil = {
 - 💡 Experience: Gained deep insights into open-source contribution workflows
 
 
-## 🚀 Featured Project: LOGOBOT
+# 🚀 Featured Project: LOGOBOT
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
