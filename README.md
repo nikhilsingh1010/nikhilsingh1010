@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="MasterHead" style="width:100%; border-radius:10px; box-shadow:0 10px 20px rgba(0,0,0,0.2);">
 
   <h1 align="center">👋 Hello World, I'm <span style="color:#00b4d8;">Nikhil Singh Thakur</span>
@@ -100,7 +100,7 @@ const nikhil = {
 - 💡 Experience: Gained deep insights into open-source contribution workflows
 
 
-# 🚀 Featured Project: LOGOBOT
+## 🚀 Featured Project: LOGOBOT
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
