@@ -84,7 +84,7 @@ const nikhil = {
   <a href="https://github.com/users/nikhilsingh1010/achievements/pull-shark" target="_blank">
     <img src="https://github.com/nikhilsingh1010/achievements/pull-shark/achievement.svg" width="120" alt="Pull Shark">
   </a>
-  <a href="https://github.com/users/nikhilsingh1010/achievements/quickdraw" target="_blank">
+  <a href="https://github.com/users/nikhilsingh1010/achievements/pull-shark" target="_blank">
     <img src="https://github.com/nikhilsingh1010/achievements/quickdraw/achievement.svg" width="120" alt="Quickdraw">
   </a>
 </div>
@@ -92,9 +92,7 @@ const nikhil = {
 ---
 
 ## 🚀 Hacktoberfest 2024 Highlights
-<div align="center">
-  <img src="https://holopin.me/nikhilsingh1010" alt="Hacktoberfest Badge">
-</div>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bc425a5c4e99161dca81a32820bad4d14290d90de6308f16eb8e1d904526f5ab/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f44353631324151474f6d77664945356d6c57412f61727469636c652d636f7665725f696d6167652d736872696e6b5f3732305f313238302f302f313637343631373934373232383f653d3231343734383336343726763d6265746126743d4654555f697351365659665635445f7565464850577654385a716744654a47337972384d69386c70666b30">
 
 - 🎯 Pull Requests: 4 Merged
 - 🏅 Achievement: Level 4 Contributor
